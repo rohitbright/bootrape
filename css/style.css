@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+img {
+    width: 100%;
+}
+header {
+    background: hsl(197deg 95% 93%);
+}
+.hero_image {
+    background: hsl(197deg 95% 93%);
+    padding-top: 42px;
+}
+.hero_image h1 {
+    font-size: 57px;
+    font-weight: 700;
+}
+.hero_image .row {
+    align-items: center;
+
+}
+header {
+    padding: 12px;
+}   
+a.nav-link {
+    padding: 14px 33px!important;
+    font-weight: 500;
+    color: #212529;
+    text-transform: capitalize;
+}
+.container.sce2 h2 {
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.container.sce2 {
+    margin-top: 50px;
+}
+.sce2 .col-sm-4 {
+    text-align: center;
+    padding: 37px;
+}
+
+.container.sce2 i {
+    font-size: 30px;
+    margin-bottom: 16px;
+    color: #3b8ef4;
+}
+.sce2 .borde {
+    text-align: center;
+    border: 3px solid #dcf4fe;
+    padding: 40px 27px;
+}
+
+.hero_image {
+    background: hsl(197deg 95% 93%);
+    padding-top: 42px;
+    padding-bottom: 100px;
+}
+
+.hero_p {
+    padding-left: 60px;
+}
+footer{background-color: #2b333e;}
+.footer{padding: 80px 0px ;}
+.footer-info p{padding: 30px 0px;
+border-top: solid1px #555c65;}
+.footer.inf-heading{
+    font-size: 15px;
+    color: #fff;
+    font-weight: 700;
+}
+footer p{
+    color: #abadba;
+}
+.footer-list li{
+display: block;
+}
+.footer-list li{text-decoration: none;
+    color: #abadba;}
+
+    p.info.heading {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .menu_footer li a {
+        text-decoration: none;
+        color: #ccc;
+    }
+    ul.footer-list {
+        padding: 0;
+    }
+    ul.social-.media {
+        padding: 0;
+    }
+
+    ul.social-.media a {
+        /* padding: 10px; */
+        border: 1px solid;
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        /* background: red; */
+        /* float: left; */
+        display: inline-block;
+        margin: 10px;
+        text-align: center;
+        line-height: 40px;
+    }
+    .footer-top {
+        background: hsl(215deg 18% 21%);
+        padding: 48px 0px;
+        color: #9a9393;
+    }
+    ul.social-.media li {
+        display: inline-block;
+    }
+    ul.social-.media a {
+        color: #ccc;
+    }
+
+    .footer-info {
+        border-top: 1px solid;
+}.menu_footer li a {
+    text-decoration: none;
+    color: #ccc;
+    font-weight: 100;}
